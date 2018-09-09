@@ -1,0 +1,15 @@
+h1 {
+   colr: blue;
+   text-align: center;
+   }
+h2 {
+   font-size: italic;
+   text-align: center;
+   color: teal;
+}
+p {
+   colr: gray;
+}
+body {
+   background-color: skyblue;
+}
