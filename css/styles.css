@@ -1,15 +1,15 @@
 h1 {
-   colr: blue;
+   colr: darkred;
    text-align: center;
    }
 h2 {
    font-size: italic;
    text-align: center;
-   color: teal;
+   color: red;
 }
 p {
-   colr: gray;
+   colr: crimson;
 }
 body {
-   background-color: skyblue;
+   background-color: salmon;
 }
